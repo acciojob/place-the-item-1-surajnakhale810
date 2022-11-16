@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: brown;
+    height: 10vh;
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    padding-top: 25px;
+    justify-content: space-between;
+   
+}
+
+ul{
+    list-style: none;
+}
