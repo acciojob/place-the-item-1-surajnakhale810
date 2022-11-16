@@ -9,14 +9,21 @@
     background-color: brown;
     height: 10vh;
     width: 100%;
+    display: flex;
+   
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
 }
 
-nav{
+/* nav{
     display: flex;
-    padding-top: 25px;
+   
+    align-items: center;
+    justify-items: center;
     justify-content: space-between;
    
-}
+} */
 
 ul{
     list-style: none;
