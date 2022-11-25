@@ -9,7 +9,7 @@
     display: flex;
     justify-items: center;
     justify-content: space-between;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 ul li {
     list-style: none;
