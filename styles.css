@@ -6,25 +6,11 @@
     box-sizing: border-box;
 }
 .holder{
-    background-color: brown;
-    height: 10vh;
-    width: 100%;
     display: flex;
-   
-    align-items: center;
     justify-items: center;
     justify-content: space-between;
+    flex-wrap: nowrap;
 }
-
-/* nav{
-    display: flex;
-   
-    align-items: center;
-    justify-items: center;
-    justify-content: space-between;
-   
-} */
-
-ul{
+ul li {
     list-style: none;
 }
